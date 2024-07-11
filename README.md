@@ -18,3 +18,9 @@ This Weather App is a web application built using HTML, CSS, and JavaScript. It 
 2. CSS: Styling of the application for an appealing and responsive design.
 3. JavaScript: Interactivity and functionality of the application.
 4. OpenWeatherMap API: For fetching weather data.
+
+**Contributing**
+Contributions are welcome! If you have suggestions for improvements or encounter any issues, feel free to open an issue or submit a pull request.
+
+**Acknowledgments**
+OpenWeatherMap for providing the weather data API.
